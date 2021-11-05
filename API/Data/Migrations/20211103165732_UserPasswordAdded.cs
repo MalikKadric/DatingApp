@@ -25,6 +25,7 @@ namespace API.Data.Migrations
             migrationBuilder.DropColumn(
                 name: "PasswordHash",
                 table: "Users");
+                
 
             migrationBuilder.DropColumn(
                 name: "PasswordSalt",

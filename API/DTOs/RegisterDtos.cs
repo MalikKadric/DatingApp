@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace API.DTOs
 {
+        
         public class RegisterDto 
         
         {   [Required]

@@ -21,6 +21,7 @@ namespace API.Data.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
+                        
 
                     b.Property<byte[]>("PasswordHash")
                         .HasColumnType("BLOB");

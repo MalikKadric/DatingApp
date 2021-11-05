@@ -21,7 +21,7 @@ using API.Extensions;
 
 namespace API
 {
-    public class Startup
+        public class Startup
     {
         private readonly IConfiguration _config;
         public Startup(IConfiguration config)
