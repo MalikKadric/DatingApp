@@ -1,0 +1,1 @@
+{"ast":null,"code":"member: Member;\n\nexport class MemberDetailComponent {\n  constructor() {}\n\n  ngOnInit() {}\n\n}","map":null,"metadata":{},"sourceType":"module"}
